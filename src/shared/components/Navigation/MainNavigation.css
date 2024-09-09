@@ -32,7 +32,7 @@
   
   .main-navigation__drawer-nav {
     display: flex;
-    justify-content: center; /* Horizontally center if needed */
+    justify-content: center;
     align-items: center;  
     height: 100%;
   }
